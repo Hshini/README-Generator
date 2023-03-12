@@ -19,11 +19,6 @@ const questions = [
     },
     {
         type: "input",
-        message: "Enter Installation Instrucition?",
-        name: "instruction"
-    },
-    {
-        type: "input",
         message: "Enter Usage information?",
         name: "usage"
     },
