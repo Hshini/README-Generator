@@ -6,7 +6,7 @@ This app will help anyone who wants to create professional README file.
 This generator requires node.js, npm
 In order to install Inquirer,<br>
 please use npm i inquirer@8.2.4.<br>
-[Tutorial](https://github.com/user/repo/blob/branch/other_file.md)
+[Tutorial](https://watch.screencastify.com/v/m0oWvfFzEGHP4qA3XBk5)
 
 ## Usage 
 Clone the  repo you your pc.<br>
