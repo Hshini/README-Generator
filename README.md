@@ -10,7 +10,7 @@ please use npm i inquirer@8.2.4.<br>
 
 ## Usage 
 Clone the  repo in your pc.<br>
-README-Generator will ask you a set of questions,<br>
+README-Generator will ask you some  questions,<br>
 which will  fill out the README.md
 
 ## License
