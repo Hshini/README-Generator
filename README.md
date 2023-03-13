@@ -9,7 +9,7 @@ please use npm i inquirer@8.2.4.<br>
 [Tutorial](https://watch.screencastify.com/v/m0oWvfFzEGHP4qA3XBk5)
 
 ## Usage 
-Clone the  repo you your pc.<br>
+Clone the  repo in your pc.<br>
 README-Generator will ask you a set of questions,<br>
 which will  fill out the README.md
 
